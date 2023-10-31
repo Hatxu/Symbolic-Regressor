@@ -5,5 +5,7 @@ Formado por OSCAR GUILLERMO RETOLAZA CARLOS,  MARIO ALEJANDRO OVIEDO VAZQUEZ y U
 
 De la materia optimización Convexa.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hatxu/Symbolic-Regressor/master?labpath=symbolic_transformer.ipynb)
+
 Editado:
 30/10/2023
